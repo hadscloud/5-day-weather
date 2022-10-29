@@ -33,4 +33,4 @@ The following image demonstrates the application functionality:
 
 
 ## Deployed Link
-()
+(https://hadscloud.github.io/5-day-weather/)
